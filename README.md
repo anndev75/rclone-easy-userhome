@@ -101,7 +101,8 @@ And then verify them with:
 rclone listremotes
 ```
 
-The remote name must match the one assigned in the script (e.g., `Linux-Home:` or `MyDrive:`).
+The remote name must match the one assigned in the script (e.g., `Linux-Home:`, `MyDrive:home/`, ` MyDrive:Desktops/personal/`) **Without the root character `/` at the end.**
+
 
 ---
 

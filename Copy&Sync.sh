@@ -5,7 +5,7 @@ directorios=("Descargas" "Documentos" "Imágenes" "Música" "Escritorio" "ISOs")
 directorio_padre="/home/$USER"
 
 # Tener una nube previamente conectada
-remoto="Linux-Home:"  
+remoto="Gdrive:LINUX-HOME"  
 
 confirm() { # Confirmación
     read -p "$1 (s/N): " respuesta
